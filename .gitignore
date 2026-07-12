@@ -27,3 +27,6 @@ CLAUDE.md
 # 环境变量
 .env
 .env.local
+
+# 本地竞品分析（不提交）
+/docs/TieU与TieZ全维度竞品对比.md
